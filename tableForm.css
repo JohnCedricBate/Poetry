@@ -86,7 +86,7 @@ body {
 	fieldset {
 		width: 310px;
 		margin-top: 20px;
-		border: 1px solid #7f9e55;
+		border: 1px solid #40f5ff;
 		line-height: 1.6em;
 		margin-left: auto;  
     margin-right: auto;  
@@ -95,7 +95,7 @@ body {
 
 	legend {
 		font-style: italic;
-		color: #7f9e55;
+		color: #40f5ff;
 	}
 
 	input[type="text"] {
