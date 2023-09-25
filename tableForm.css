@@ -57,17 +57,17 @@ body {
 			
 	th, td {
 		text-align: center;
-		border-top: 1px solid #E8DE2A;
-		border-bottom: 1px solid #E8DE2A;
-		border-right: 1px solid #E8DE2A;
-		border-left:2px solid #7f9e55;
+		border-top: 1px solid #40f5ff;
+		border-bottom: 1px solid #40f5ff;
+		border-right: 1px solid #40f5ff;
+		border-left:2px solid #40f5ff;
 	}
 	
 	tr.head th {
 		color: #ffffff;
-		border-bottom: 2px solid #7f9e55;
-		border-right: 1px solid #7f9e55;
-		border-top: 1px solid #7f9e55;
+		border-bottom: 2px solid #40f5ff;
+		border-right: 1px solid #40f5ff;
+		border-top: 1px solid #40f5ff;
 		text-align: center;
 		letter-spacing: 0.15em;
 	}
