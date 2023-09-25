@@ -121,7 +121,7 @@ body {
 	}
 
 	input[type="submit"]:hover {
-		border: 1px solid #006633;
+		border: 1px solid #40f5ff;
 		background-color: #000000;
 		color: #ffffff;
 		cursor: pointer;
